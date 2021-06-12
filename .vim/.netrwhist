@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Applications/MAMP/htdocs/EmRevList/EmRevApp-LaraVueVer-'
+let g:netrw_dirhist_0='/Applications/MAMP/htdocs/EmRevList/EmRevApp-LaraVueVer-/tests'
+let g:netrw_dirhist_9='/Applications/MAMP/htdocs/EmRevList/EmRevApp-LaraVueVer-'
+let g:netrw_dirhist_8='/Applications/MAMP/htdocs/EmRevList/EmRevApp-LaraVueVer-/app'
+let g:netrw_dirhist_7='/Applications/MAMP/htdocs/EmRevList/EmRevApp-LaraVueVer-'
+let g:netrw_dirhist_6='/Applications/MAMP/htdocs/EmRevList/EmRevApp-LaraVueVer-/config'
+let g:netrw_dirhist_5='/Applications/MAMP/htdocs/EmRevList/EmRevApp-LaraVueVer-'
+let g:netrw_dirhist_4='/Applications/MAMP/htdocs/EmRevList/EmRevApp-LaraVueVer-/config'
+let g:netrw_dirhist_3='/Applications/MAMP/htdocs/EmRevList/EmRevApp-LaraVueVer-'
+let g:netrw_dirhist_2='/Applications/MAMP/htdocs/EmRevList/EmRevApp-LaraVueVer-/config'
