@@ -132,3 +132,13 @@ if has("autocmd")
     \ endif
   augroup END
 endif
+
+colorscheme molokai
+
+syntax on
+" 256色¬
+set t_Co=256¬
+" truecolor¬
+set jacoborus/tender.vim
+" 背景色¬
+set background=dark¬
